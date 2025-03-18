@@ -4,7 +4,10 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     text-align: center;
-}
+ img}
+widthh:100%;
+height:auto;/* Mantiene la proporcion de la imagen */
+display:pink;/* elimina espacio extra debajo de la imangen*/
 
 header {
     background: #ffcccb;
